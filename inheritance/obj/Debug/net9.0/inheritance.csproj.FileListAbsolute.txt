@@ -1,0 +1,14 @@
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfo.cs
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KODNING\inheritance\bin\Debug\net9.0\inheritance.exe
+C:\Users\Admin\KODNING\inheritance\bin\Debug\net9.0\inheritance.deps.json
+C:\Users\Admin\KODNING\inheritance\bin\Debug\net9.0\inheritance.runtimeconfig.json
+C:\Users\Admin\KODNING\inheritance\bin\Debug\net9.0\inheritance.dll
+C:\Users\Admin\KODNING\inheritance\bin\Debug\net9.0\inheritance.pdb
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.dll
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\refint\inheritance.dll
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.pdb
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\inheritance.genruntimeconfig.cache
+C:\Users\Admin\KODNING\inheritance\obj\Debug\net9.0\ref\inheritance.dll

@@ -1,0 +1,4 @@
+C:\Users\Admin\kodning\interface-dic\obj\Debug\net9.0\interface-dic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\kodning\interface-dic\obj\Debug\net9.0\interface-dic.AssemblyInfoInputs.cache
+C:\Users\Admin\kodning\interface-dic\obj\Debug\net9.0\interface-dic.AssemblyInfo.cs
+C:\Users\Admin\kodning\interface-dic\obj\Debug\net9.0\interface-dic.csproj.CoreCompileInputs.cache

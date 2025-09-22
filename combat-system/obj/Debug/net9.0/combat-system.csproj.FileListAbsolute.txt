@@ -1,0 +1,4 @@
+C:\Users\Admin\kodning\combat-system\obj\Debug\net9.0\combat-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\kodning\combat-system\obj\Debug\net9.0\combat-system.AssemblyInfoInputs.cache
+C:\Users\Admin\kodning\combat-system\obj\Debug\net9.0\combat-system.AssemblyInfo.cs
+C:\Users\Admin\kodning\combat-system\obj\Debug\net9.0\combat-system.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\kodning\assertions\bin\Debug\net9.0\assertions.exe
+C:\Users\Admin\kodning\assertions\bin\Debug\net9.0\assertions.deps.json
+C:\Users\Admin\kodning\assertions\bin\Debug\net9.0\assertions.runtimeconfig.json
+C:\Users\Admin\kodning\assertions\bin\Debug\net9.0\assertions.dll
+C:\Users\Admin\kodning\assertions\bin\Debug\net9.0\assertions.pdb
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.AssemblyInfoInputs.cache
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.AssemblyInfo.cs
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.dll
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\refint\assertions.dll
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.pdb
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\assertions.genruntimeconfig.cache
+C:\Users\Admin\kodning\assertions\obj\Debug\net9.0\ref\assertions.dll

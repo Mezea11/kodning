@@ -1,0 +1,14 @@
+C:\Users\Admin\KODNING\collections\bin\Debug\net9.0\collections.exe
+C:\Users\Admin\KODNING\collections\bin\Debug\net9.0\collections.deps.json
+C:\Users\Admin\KODNING\collections\bin\Debug\net9.0\collections.runtimeconfig.json
+C:\Users\Admin\KODNING\collections\bin\Debug\net9.0\collections.dll
+C:\Users\Admin\KODNING\collections\bin\Debug\net9.0\collections.pdb
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.AssemblyInfoInputs.cache
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.AssemblyInfo.cs
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.dll
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\refint\collections.dll
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.pdb
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\collections.genruntimeconfig.cache
+C:\Users\Admin\KODNING\collections\obj\Debug\net9.0\ref\collections.dll

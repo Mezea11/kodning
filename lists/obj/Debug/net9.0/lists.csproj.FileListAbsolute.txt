@@ -1,0 +1,14 @@
+C:\Users\Admin\KODNING\lists\bin\Debug\net9.0\lists.exe
+C:\Users\Admin\KODNING\lists\bin\Debug\net9.0\lists.deps.json
+C:\Users\Admin\KODNING\lists\bin\Debug\net9.0\lists.runtimeconfig.json
+C:\Users\Admin\KODNING\lists\bin\Debug\net9.0\lists.dll
+C:\Users\Admin\KODNING\lists\bin\Debug\net9.0\lists.pdb
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.AssemblyInfoInputs.cache
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.AssemblyInfo.cs
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.dll
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\refint\lists.dll
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.pdb
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\lists.genruntimeconfig.cache
+C:\Users\Admin\KODNING\lists\obj\Debug\net9.0\ref\lists.dll

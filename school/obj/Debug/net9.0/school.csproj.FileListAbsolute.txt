@@ -1,0 +1,14 @@
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.AssemblyInfoInputs.cache
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.AssemblyInfo.cs
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KODNING\school\bin\Debug\net9.0\school.exe
+C:\Users\Admin\KODNING\school\bin\Debug\net9.0\school.deps.json
+C:\Users\Admin\KODNING\school\bin\Debug\net9.0\school.runtimeconfig.json
+C:\Users\Admin\KODNING\school\bin\Debug\net9.0\school.dll
+C:\Users\Admin\KODNING\school\bin\Debug\net9.0\school.pdb
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.dll
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\refint\school.dll
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.pdb
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\school.genruntimeconfig.cache
+C:\Users\Admin\KODNING\school\obj\Debug\net9.0\ref\school.dll

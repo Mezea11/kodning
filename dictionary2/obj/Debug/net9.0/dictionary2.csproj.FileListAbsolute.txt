@@ -1,0 +1,14 @@
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.AssemblyInfoInputs.cache
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.AssemblyInfo.cs
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KODNING\dictionary2\bin\Debug\net9.0\dictionary2.exe
+C:\Users\Admin\KODNING\dictionary2\bin\Debug\net9.0\dictionary2.deps.json
+C:\Users\Admin\KODNING\dictionary2\bin\Debug\net9.0\dictionary2.runtimeconfig.json
+C:\Users\Admin\KODNING\dictionary2\bin\Debug\net9.0\dictionary2.dll
+C:\Users\Admin\KODNING\dictionary2\bin\Debug\net9.0\dictionary2.pdb
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.dll
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\refint\dictionary2.dll
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.pdb
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\dictionary2.genruntimeconfig.cache
+C:\Users\Admin\KODNING\dictionary2\obj\Debug\net9.0\ref\dictionary2.dll
