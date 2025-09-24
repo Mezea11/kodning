@@ -1,0 +1,15 @@
+C:\Users\Admin\kodning\debug-demo\bin\Debug\net9.0\debug-demo.exe
+C:\Users\Admin\kodning\debug-demo\bin\Debug\net9.0\debug-demo.deps.json
+C:\Users\Admin\kodning\debug-demo\bin\Debug\net9.0\debug-demo.runtimeconfig.json
+C:\Users\Admin\kodning\debug-demo\bin\Debug\net9.0\debug-demo.dll
+C:\Users\Admin\kodning\debug-demo\bin\Debug\net9.0\debug-demo.pdb
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.AssemblyInfoInputs.cache
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.AssemblyInfo.cs
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.sourcelink.json
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.dll
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\refint\debug-demo.dll
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.pdb
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\debug-demo.genruntimeconfig.cache
+C:\Users\Admin\kodning\debug-demo\obj\Debug\net9.0\ref\debug-demo.dll
