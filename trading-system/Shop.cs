@@ -23,7 +23,7 @@ class Shop
     {
         foreach(var it in Items)
         {
-            System.Console.WriteLine(it.ToString());
+            Console.WriteLine(it.ToString());
         }
     }
 
